@@ -1,4 +1,4 @@
-# rule-34-light-theme README
+# familiar-green-light-theme README
 
 ## Working with Markdown
 
