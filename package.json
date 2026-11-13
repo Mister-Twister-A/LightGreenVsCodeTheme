@@ -1,6 +1,6 @@
 {
-  "name": "rule-34-light-theme",
-  "displayName": "Rule 34 light theme",
+  "name": "familiar-green-light-theme",
+  "displayName": "Very familiar Green light theme",
   "description": "light theme for people that dont want seperate from their favorite website",
   "version": "0.0.1",
   "engines": {
@@ -14,7 +14,7 @@
       {
         "label": "Rule 34 Theme Light",
         "uiTheme": "vs",
-        "path": "./themes/Rule 34 Theme Light-color-theme.json"
+        "path": "./themes/Theme Light-color-theme.json"
       }
     ]
   }
