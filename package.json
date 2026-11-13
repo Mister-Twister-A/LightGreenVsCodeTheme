@@ -1,20 +1,37 @@
+
 {
   "name": "familiar-green-light-theme",
-  "displayName": "Very familiar Green light theme",
-  "description": "light theme for people that dont want seperate from their favorite website",
+  "displayName": "Very Familiar Green Light Theme",
+  "description": "A light theme for people who don't want to leave the familiar look of their favorite website.",
   "version": "0.0.1",
+  "publisher": "YOUR-PUBLISHER-ID",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mister-Twister-A/LightGreenVsCodeTheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mister-Twister-A/LightGreenVsCodeTheme/issues"
+  },
+  "homepage": "https://github.com/Mister-Twister-A/LightGreenVsCodeTheme",
   "engines": {
     "vscode": "^1.146.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "light",
+    "green",
+    "familiar",
+    "color-theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Rule 34 Theme Light",
+        "label": "Familiar Green Light",
         "uiTheme": "vs",
-        "path": "./themes/Theme Light-color-theme.json"
+        "path": "./themes/familiar-green-light-color-theme.json"
       }
     ]
   }
