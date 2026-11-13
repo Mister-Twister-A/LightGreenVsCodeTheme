@@ -1,0 +1,21 @@
+{
+  "name": "rule-34-light-theme",
+  "displayName": "Rule 34 light theme",
+  "description": "light theme for people that dont want seperate from their favorite website",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.146.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rule 34 Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/Rule 34 Theme Light-color-theme.json"
+      }
+    ]
+  }
+}
